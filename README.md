@@ -1,8 +1,8 @@
 # React + TypeScript Starter Tempalte
 
 This is a React typescript starter template with following packages installed
--Tailwind css
--Axios
+- Tailwind css
+- Axios
 
 # React + TypeScript + Vite
 
