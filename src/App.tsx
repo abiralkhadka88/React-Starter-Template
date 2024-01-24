@@ -1,7 +1,9 @@
+import SignIn from "./components/Form/SignIn";
+
 function App() {
   return (
     <>
-      <p className="text-red-500">Hello World</p>
+      <SignIn />
     </>
   );
 }
